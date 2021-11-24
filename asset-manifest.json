@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/greecania/static/css/main.9bafef6f.chunk.css",
+    "main.css": "/greecania/static/css/main.bf1a454a.chunk.css",
     "main.js": "/greecania/static/js/main.4faa9fd7.chunk.js",
     "main.js.map": "/greecania/static/js/main.4faa9fd7.chunk.js.map",
     "runtime-main.js": "/greecania/static/js/runtime-main.5e8e0947.js",
@@ -12,7 +12,7 @@
     "static/js/3.db7b497a.chunk.js.map": "/greecania/static/js/3.db7b497a.chunk.js.map",
     "index.html": "/greecania/index.html",
     "static/css/2.383c0125.chunk.css.map": "/greecania/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.9bafef6f.chunk.css.map": "/greecania/static/css/main.9bafef6f.chunk.css.map",
+    "static/css/main.bf1a454a.chunk.css.map": "/greecania/static/css/main.bf1a454a.chunk.css.map",
     "static/js/2.6c72adbd.chunk.js.LICENSE.txt": "/greecania/static/js/2.6c72adbd.chunk.js.LICENSE.txt",
     "static/media/collections.68594f19.jpg": "/greecania/static/media/collections.68594f19.jpg",
     "static/media/facebook-logo.e63806d7.png": "/greecania/static/media/facebook-logo.e63806d7.png",
@@ -31,7 +31,7 @@
     "static/js/runtime-main.5e8e0947.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.6c72adbd.chunk.js",
-    "static/css/main.9bafef6f.chunk.css",
+    "static/css/main.bf1a454a.chunk.css",
     "static/js/main.4faa9fd7.chunk.js"
   ]
 }
