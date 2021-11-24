@@ -32,7 +32,7 @@ const HomeAbout = () => {
                   of dairy products are on a high level. Hence we decided to
                   establish our new venture in India by the name of GREECANIA; a
                   perfect blend of the Greek flavors to tickle the Indian taste
-                  buds
+                  buds.
                 </p>
               </div>
             </Col>
