@@ -128,7 +128,7 @@
 }
 
 .our-collections .contentSection {
-  background-color: #0a8297;
+  background-color: #048da5;
   border: 1px solid #fff;
   border-radius: 5px;
   transition: 0.3s linear;
@@ -160,7 +160,7 @@
   padding-bottom: 50px;
 }
 .weBelieveContent {
-  background-color: #c2eeec;
+  background-color: #0eb7d4;
   box-shadow: 0px 2px 5px #000;
   padding-top: 5px;
 }
@@ -176,11 +176,13 @@
   font-weight: 700;
   font-size: 22px;
   font-family: "Volkhov", serif;
+  color: #000;
 }
 .weBelieveSection p {
   font-weight: 500;
   font-size: 18px;
   font-family: "Volkhov", serif;
+  color: #000;
 }
 /* weBelieve-end */
 
