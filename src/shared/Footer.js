@@ -69,7 +69,7 @@ const Footer = () => {
           <Container>
             <Row className="text-center">
               <Col md="12">
-                <p className="text-white pt-3">
+                <p className="pt-3">
                   Copyrights &copy; Greecania. All Rights Reserved. Design &
                   Developed by{" "}
                   <a href="https://netcom-india.com/">

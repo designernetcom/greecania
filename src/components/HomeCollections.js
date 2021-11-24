@@ -14,12 +14,12 @@ const HomeCollections = () => {
   return (
     <div
       className="our-collections"
-      style={{
-        backgroundImage: "url(" + collectionBG + ")",
-        backgroundSize: "auto",
-        backgroundRepeat: "no-repeat",
-        backgroundSize: "cover",
-      }}
+      // style={{
+      //   backgroundImage: "url(" + collectionBG + ")",
+      //   backgroundSize: "auto",
+      //   backgroundRepeat: "no-repeat",
+      //   backgroundSize: "cover",
+      // }}
     >
       <>
         <Container>
