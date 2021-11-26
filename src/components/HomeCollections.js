@@ -1,5 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
+import { Link } from "react-router-dom";
 import yogurt from "../assets/yogurt-icon-1.png";
 import iceCrean from "../assets/ice-cream-icon.png";
 import pudding from "../assets/pudding-icon.png";
@@ -34,9 +35,9 @@ const HomeCollections = () => {
           <Row className="text-center">
             <Col md={3} className="mb-5">
               <div className="contentSection">
-                <a href="">
+                <Link to="/greek-yogurt">
                   <img src={yogurt} /> <span>Greek Yogurt</span>
-                </a>
+                </Link>
               </div>
             </Col>
             <Col md={3} className="mb-5">

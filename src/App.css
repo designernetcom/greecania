@@ -9,6 +9,10 @@
   --colorFifth: #c2eeec;
 }
 /* variable-color-end */
+body {
+  background-color: #c2eeec;
+}
+
 /* navbar */
 .navbar-expand-lg {
   background: #c5e3e8 !important;
@@ -275,5 +279,232 @@
   .footer {
     text-align: center;
   }
+
+  .greekYogurtPlain img {
+    width: 100% !important;
+  }
+  .greekYogurtHoney img {
+    width: 100% !important;
+  }
+  .greekYogurtChoco img {
+    width: 100% !important;
+  }
+  .greekYogurtStrawberry img {
+    width: 100% !important;
+  }
+  .greekYogurtMango img {
+    width: 100% !important;
+  }
 }
 /* media query-end */
+
+/* aboutPage */
+.aboutPage {
+  margin-top: 120px;
+}
+.aboutPage h1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #000;
+}
+.aboutPage p {
+  color: #000;
+  font-weight: 500;
+}
+.temSection h1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #000;
+}
+.temSection p {
+  color: #000;
+  font-weight: 500;
+}
+/* aboutPage-ned */
+
+/* missionVision */
+.missionVision .vision {
+  background-color: #0eb7d4;
+  padding: 20px;
+}
+.missionVision .vision h3 {
+  color: #000;
+  font-weight: 700;
+}
+.missionVision .vision p {
+  color: #000;
+  font-weight: 500;
+}
+.missionVision .mission {
+  background-color: #0eb7d4;
+  padding: 20px;
+}
+.missionVision .mission h3 {
+  color: #000;
+  font-weight: 700;
+}
+.missionVision .mission p {
+  color: #000;
+  font-weight: 500;
+}
+/* missionVision */
+
+/* contactPage */
+.contactPage {
+  margin-top: 120px;
+}
+.contactPage h2 {
+  font-size: 20px;
+  font-weight: 800 !important;
+  margin-bottom: 20px;
+}
+.contactDetails .fas {
+  color: #000;
+  font-size: 30px;
+}
+.contactDetails span {
+  color: #000;
+  font-size: 20px;
+}
+.contactDetails .phone {
+  color: #000;
+  font-size: 20px;
+  font-weight: 600;
+}
+.contactDetails a {
+  text-decoration: none;
+  color: #06879e;
+  font-weight: 700;
+}
+.contactDetails .followUs img {
+  width: 10%;
+}
+
+.form-control {
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  -webkit-appearance: none;
+  appearance: none;
+  border-radius: 0rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+.contactForm button {
+  background-color: #000 !important;
+  border: none;
+  border-radius: 0px;
+  color: #fff;
+}
+
+/* contactPage */
+
+/* product */
+.our-products {
+  margin-top: 103px;
+}
+.pageBanner {
+  background-color: #44e4ff;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+.pageBanner h2 {
+  color: #000;
+}
+.our-products h2 {
+  font-size: 35px;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #000;
+}
+.our-products ul {
+  padding-top: 20px;
+}
+.our-products ul li {
+  color: #000;
+  font-weight: 600;
+}
+.our-products p {
+  color: #000;
+  font-weight: 600;
+  padding-top: 20px;
+}
+/* product */
+
+/* greekYogurt */
+.greekYogurtPlain {
+  background-color: #87b491;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-shadow: 0px 0px 10px #000;
+}
+.greekYogurtPlain img {
+  width: 70%;
+  animation: float 4s ease-in-out infinite;
+  box-sizing: border-box;
+}
+.greekYogurtHoney {
+  background-color: #db9e20;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-shadow: 0px 0px 10px #000;
+}
+.greekYogurtHoney img {
+  width: 70%;
+  animation: float 4s ease-in-out infinite;
+  box-sizing: border-box;
+}
+.greekYogurtChoco {
+  background-color: #9a756c;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-shadow: 0px 0px 10px #000;
+}
+.greekYogurtChoco img {
+  width: 70%;
+  animation: float 4s ease-in-out infinite;
+  box-sizing: border-box;
+}
+.greekYogurtStrawberry {
+  background-color: #cd3333;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-shadow: 0px 0px 10px #000;
+}
+.greekYogurtStrawberry img {
+  width: 70%;
+  animation: float 4s ease-in-out infinite;
+  box-sizing: border-box;
+}
+.greekYogurtMango {
+  background-color: #de8913;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  box-shadow: 0px 0px 10px #000;
+}
+.greekYogurtMango img {
+  width: 70%;
+  animation: float 4s ease-in-out infinite;
+  box-sizing: border-box;
+}
+@keyframes float {
+  0% {
+    transform: translateY(0%);
+  }
+
+  50% {
+    transform: translateY(-6%);
+  }
+
+  100% {
+    transform: translateY(0%);
+  }
+}
+/* greekYogurt */

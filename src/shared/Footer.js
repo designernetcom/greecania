@@ -1,4 +1,5 @@
 import React from "react";
+import {LinkContainer} from 'react-router-bootstrap'
 import { Container, Row, Col } from "react-bootstrap";
 import logo from ".././greecania-logo.png";
 import facebook from "../assets/facebook-logo.png";
@@ -14,9 +15,10 @@ const Footer = () => {
           <Container>
             <Row>
               <Col md={4}>
-                <a href="">
-                  <img src={logo} width="80%" />
-                </a>
+                <LinkContainer to="/">
+                <img src={logo} width="80%" />
+                </LinkContainer>
+                
               </Col>
               <Col md={4}>
                 <h4>Reach US</h4>
